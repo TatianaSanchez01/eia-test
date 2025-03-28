@@ -1,3 +1,5 @@
+package QuizHospital;
+
 public abstract class Persona {
     protected String tipoDocumento;
     protected String documento;

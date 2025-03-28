@@ -1,3 +1,5 @@
+package QuizHospital;
+
 import java.util.Scanner;
 
 public class Main {
@@ -25,8 +27,8 @@ public class Main {
             if (datos[0].equals("p"))
                 pacientes[cantP++]=new Paciente(datos[1], datos[2], datos[3], Integer.parseInt(datos[4]), datos[5]);
             else if (datos[0].equals("o")) {
-                //Operacion(String codigo, Paciente paciente, Medico cirujano, Medico anesteciologo, Enfermero[] enfermeros,
-                //PersonalSalud[] personalApoyo, boolean resultado, int salon)
+                //QuizHospital.Operacion(String codigo, QuizHospital.Paciente paciente, QuizHospital.Medico cirujano, QuizHospital.Medico anesteciologo, QuizHospital.Enfermero[] enfermeros,
+                //QuizHospital.PersonalSalud[] personalApoyo, boolean resultado, int salon)
                 String[] listEnf=null;
                 if (!datos[4].equals(""))
                     listEnf=datos[4].split(" ");

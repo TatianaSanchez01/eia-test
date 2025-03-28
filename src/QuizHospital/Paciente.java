@@ -1,3 +1,5 @@
+package QuizHospital;
+
 public class Paciente extends Persona {
     private int edad;
     private String eps;

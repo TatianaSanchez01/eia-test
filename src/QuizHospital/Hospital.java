@@ -1,3 +1,5 @@
+package QuizHospital;
+
 public class Hospital {
     private Operacion[] operacionesProgramadas;
     private PersonalSalud[] personal;

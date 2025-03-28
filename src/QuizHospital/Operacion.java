@@ -1,3 +1,5 @@
+package QuizHospital;
+
 public class Operacion {
     private String codigo;
     private Paciente paciente;

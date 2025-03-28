@@ -1,3 +1,5 @@
+package QuizHospital;
+
 public class Medico extends PersonalSalud {
         private String especialidad;
         private boolean cirujano;

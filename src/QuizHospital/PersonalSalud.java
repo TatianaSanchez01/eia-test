@@ -1,3 +1,5 @@
+package QuizHospital;
+
 public class PersonalSalud extends Persona {
     protected String noCarnet;
     protected String departamento;

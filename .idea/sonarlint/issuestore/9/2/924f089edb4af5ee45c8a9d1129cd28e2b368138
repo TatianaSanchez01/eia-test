@@ -1,0 +1,11 @@
+
+0
+java:S1220""Move this file to a named package.
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(Çµí‘
+X
+java:S1659"BDeclare "cantO" and all following declarations on a separate line.(‹¨ºŠ
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(¿²³Ã
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(ı™øøÿÿÿÿ
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(êÛê²
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(ÔÉ’ 

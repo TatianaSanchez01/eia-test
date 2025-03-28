@@ -1,3 +1,5 @@
+package QuizHospital;
+
 public class Enfermero extends PersonalSalud{
     private String sala;
 
